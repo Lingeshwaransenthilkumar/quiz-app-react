@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "question":"What is capital of France ?",
+        "options":["Berlin","Madrid","Paris","Rome"],
+        "correctOption":"Paris"
+    },
+    {
+        "id": 2,
+        "question": "Which country is known for the traditional garment called the 'Kimono'?",
+        "options": ["China", "Japan", "India", "Thailand"],
+        "correctOption": "Japan"
+    },
+    {
+        "id": 3,
+        "question": "Which country is famous for its dish 'Paella'?",
+        "options": ["Portugal", "Italy", "Spain", "Greece"],
+        "correctOption": "Spain"
+    },
+    {
+        "id": 4,
+        "question": "In which country is the 'Oktoberfest' festival celebrated?",
+        "options": ["Germany", "Austria", "Switzerland", "Netherlands"],
+        "correctOption": "Germany"
+    }
+]
